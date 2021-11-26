@@ -39,7 +39,7 @@ This might take a few seconds. You have to reload the site manually. Once you're
 
 ### Cloning the repository
 
-In order to clone the repository to your laptop, enter the following command:
+In order to clone the repository to your laptop, enter the following command (using **YOUR** link):
 
 ```bash
 git clone https://github.com/devadvent/puzzle-1-yourusername
