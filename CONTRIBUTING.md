@@ -2,7 +2,7 @@
 
 # 📖 Guide to participate in the contest
 
-## General process
+## Short guide |---|
 
 1. Every day I upload a new puzzle as public repository to the [devadvent account](https://github.com/devadvent)
 2. That puzzle has a description of what it is about and a link to _GitHub classrooms_
@@ -13,9 +13,7 @@
 7. Done. I will see this and take your solution into account for winning the daily prize.
 8. I will contact you through Twitter to announce your prize in case you are the selected winner
 
-_Coming soon_
-
-## Step-by-step process
+## Long guide |-------------------|
 
 ### Entering the competition
 
