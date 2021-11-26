@@ -35,5 +35,5 @@ Always try to do your best work, and to make your code as readable as possible.
 
 -   ✅ You **can** and are even **encouraged** to participate on multiple (heck, even ALL) of the puzzles.
 -   ⚠️ If the puzzle has tests, they **all need to pass** in order to qualify for the prize
--   🚫 You **can't** upload multiple submissions for the same puzzle. This results in permanent ban from the entire competition.
--   🚫 You **can't** modify or remove any tests. This results in permanent ban from the entire competition.
+-   🚫 **Don't** upload multiple submissions for the same puzzle.
+-   🚫 **Don't** modify or remove any tests.
