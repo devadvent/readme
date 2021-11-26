@@ -6,7 +6,7 @@
 
 The **Dev Advent Calendar** is an initiative by [@themarcba](https://twitter.com/themarcba) in order to give back to the community and learn something on the way.
 
-For every day from the **1st to the 24th of December**, I will push an Xmas-themed coding puzzle to this repository onto the branch `puzzle/*` (\* = representing the number of the day of the puzzle).
+For every day from the **1st to the 24th of December**, I will push an Xmas-themed coding puzzle as a repository to this organization. A demo puzzle is at [devadvent/2021-puzzle-0](https://github.com/devadvent/2021-puzzle-0).
 
 Participants will have to click on a [GitHub classroom](https://classroom.github.com/) link. This will automatically create a private repository they can make their changes and solve the puzzle. Attention - every puzzle will have a deadline until the next day 8:00am CET. This should give people from the Americas enough time to participate in the competition.
 
