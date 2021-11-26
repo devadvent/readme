@@ -1,6 +1,6 @@
 ![](dac2021.jpg)
 
-# Dev Advent Calendar 🎅
+# 🎅 Dev Advent Calendar
 
 ## The idea 💡
 

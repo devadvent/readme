@@ -1,6 +1,6 @@
 ![](dac2021.jpg)
 
-# Participating in the Contest 😃
+# 📖 Guide to participate in the contest
 
 ## General process
 
