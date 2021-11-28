@@ -35,3 +35,8 @@ Always try to do your best work, and to make your code as readable as possible.
 -   ⚠️ If the puzzle has tests, they **all need to pass** in order to qualify for the prize
 -   🚫 **Don't** upload multiple submissions for the same puzzle.
 -   🚫 **Don't** modify or remove any tests.
+
+## Participate 🚀
+
+Participating requires you to have a GitHub account. You
+You can find detailed instructions on how to participate in [this guide 📖](CONTRIBUTING.md))
