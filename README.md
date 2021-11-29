@@ -2,7 +2,7 @@
 
 # 🎅 Dev Advent Calendar
 
-[![Dev Advent Calendar Video Explaination](https://img.youtube.com/vi/AmtkdsTcHTo/0.jpg)](https://www.youtube.com/watch?v=AmtkdsTcHTo)
+[![Dev Advent Calendar Video Explaination](./youtube.jpg)](https://www.youtube.com/watch?v=AmtkdsTcHTo)
 
 ## The idea 💡
 
