@@ -29,7 +29,7 @@ If one day there are **no valid submissions**, the prize for that day goes into 
 
 Always try to do your best work, and to make your code as readable as possible.
 
-**HOWEVER!**❗ I will **not** judge your code on how you solved a certain problem or which method you used. The the point of all of this is to have fun and write some code.
+**HOWEVER!**❗ I will **not** judge your code on how you solved a certain problem or which method you used. The point of all of this is to have fun and write some code.
 
 ## Rules ☝️
 
@@ -40,5 +40,5 @@ Always try to do your best work, and to make your code as readable as possible.
 
 ## Participate 🚀
 
-Participating requires you to have a GitHub account. You
-You can find detailed instructions on how to participate in [this guide 📖](CONTRIBUTING.md))
+Participating requires you to have a GitHub account.
+You can find detailed instructions on how to participate in [this guide 📖](CONTRIBUTING.md)
