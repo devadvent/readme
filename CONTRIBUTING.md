@@ -17,7 +17,7 @@
 
 ### Entering the competition
 
-In order to enter the competition, select the current puzzle from the (list of puzzles)[https://github.com/devadvent] with for the current day.
+In order to enter the competition, select the current puzzle from the [list of puzzles](https://github.com/devadvent) for the current day.
 
 -   `2021-puzzle-1` is December 1st
 -   `2021-puzzle-2` is December 2nd
@@ -32,7 +32,7 @@ Click that link, and then `Accept this assignment`:
 This will create a clone of the template repository for you.
 ![](enroll_2.png)
 
-This might take a few seconds. You have to reload the site manually. Once you're done that, something like this appears:
+This might take a few seconds. You have to reload the site manually. Once you've done that, something like this appears:
 ![](enroll_3.png)
 
 **THAT** is the link of YOUR repository to work on.
@@ -47,7 +47,7 @@ git clone https://github.com/devadvent/puzzle-1-yourusername
 
 ### Install the dependencies
 
-Most puzzles will need you to install project dependencies to run it. The command will be the same of **all puzzles**. It depends if you use Yarn or NPM:
+Most puzzles will need you to install project dependencies to run it. The command will be the same for **all puzzles**. It depends if you use Yarn or NPM:
 
 **Yarn:**
 
@@ -65,7 +65,7 @@ npm run dev
 
 I try to make each puzzle relatively easy, so that also beginners can participate.
 
-Every puzzle comes with a story behind it and some technical explainations what is exppected from a working solution.
+Every puzzle comes with a story behind it and some technical explanation for what is expected from a working solution.
 
 ### Test your solution
 
