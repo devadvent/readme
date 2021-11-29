@@ -2,6 +2,8 @@
 
 # 🎅 Dev Advent Calendar
 
+[![Dev Advent Calendar Youtube Clip](./video_cover.png)](https://www.youtube.com/watch?v=AmtkdsTcHTo)
+
 ## The idea 💡
 
 The **Dev Advent Calendar** is an initiative by [@themarcba](https://twitter.com/themarcba) in order to give back to the community and learn something on the way.
