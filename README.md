@@ -29,12 +29,12 @@ If one day there are **no valid submissions**, the prize for that day goes into 
 
 Always try to do your best work, and to make your code as readable as possible.
 
-**HOWEVER!**❗ I will **not** judge your code on how you solved a certain problem or which method you used. The point of all of this is to have fun and write some code.
+**HOWEVER** ❗ I will **not** judge your code on how you solved a certain problem or which method you used. The point of all of this is to have fun and write some code.
 
 ## Rules ☝️
 
 -   ✅ You **can** and are even **encouraged** to participate on multiple (heck, even ALL) of the puzzles.
--   ⚠️ If the puzzle has tests, they **all need to pass** in order to qualify for the prize
+-   ⚠️ If the puzzle has tests, they **all need to pass** in order to qualify for the prize.
 -   🚫 **Don't** upload multiple submissions for the same puzzle.
 -   🚫 **Don't** modify or remove any tests.
 
