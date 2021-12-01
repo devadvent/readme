@@ -49,6 +49,20 @@ git clone https://github.com/devadvent/puzzle-1-yourusername
 
 Most puzzles will need you to install project dependencies to run it. The command will be the same for **all puzzles**. It depends if you use Yarn or NPM:
 
+```bash
+yarn install
+```
+
+or
+
+```bash
+npm install
+```
+
+### ⚙️ Run the code
+
+Run the code with
+
 **Yarn:**
 
 ```bash
