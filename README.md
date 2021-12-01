@@ -42,3 +42,13 @@ Always try to do your best work, and to make your code as readable as possible.
 
 Participating requires you to have a GitHub account.
 You can find detailed instructions on how to participate in [this guide 📖](CONTRIBUTING.md)
+
+# 🧩 Puzzles
+
+## Day 1
+
+Weeks before Christmas, Santa's reindeers start practicing their flying in order to be fit for the big night. Unfortunately, one of them (Rudolf) crashed and landed in the forest 🌲
+
+Now, Santa 🎅 needs YOUR help to find him.
+
+[https://github.com/devadvent/puzzle-1](https://github.com/devadvent/puzzle-1)
