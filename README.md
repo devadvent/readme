@@ -54,6 +54,7 @@ Now, Santa 🎅 needs YOUR help to find him.
 [https://github.com/devadvent/puzzle-1](https://github.com/devadvent/puzzle-1)
 
 📊 99 submissions / 71 valid solutions
+
 🏆 Winner: [@nuenanas](https://twitter.com/nuenanas)
 
 ## Day 2
