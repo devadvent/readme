@@ -52,3 +52,12 @@ Weeks before Christmas, Santa's reindeers start practicing their flying in order
 Now, Santa 🎅 needs YOUR help to find him.
 
 [https://github.com/devadvent/puzzle-1](https://github.com/devadvent/puzzle-1)
+
+📊 99 submissions / 71 valid solutions
+🏆 Winner: [@nuenanas](https://twitter.com/nuenanas)
+
+## Day 2
+
+The Elf Coffee Shop ElfCup with straw needs your help to create the menu for the newly reopened place where the elves get their daily cup of _whatever drink tickles their fancy_.
+
+[https://github.com/devadvent/puzzle-2](https://github.com/devadvent/puzzle-2)
