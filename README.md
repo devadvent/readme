@@ -80,3 +80,9 @@ You might not know this, but the Elf Post Service 📯 (ECS) is the largest parc
 The elves are about to prepare bags of candy that they want to add to each present this year, it's your job to create a program that creates bags of candy with no repeating candy in each bag.
 
 [https://github.com/devadvent/puzzle-5](https://github.com/devadvent/puzzle-5)
+
+## Day 6
+
+Write a program that checks a list of kids and analyze whether they were naughty or nice, so that Santa knows if they deserve candy and toys, or coal...
+
+[https://github.com/devadvent/puzzle-6](https://github.com/devadvent/puzzle-6)
