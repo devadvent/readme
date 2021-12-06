@@ -47,6 +47,8 @@ You can find detailed instructions on how to participate in [this guide 📖](CO
 
 ## Day 1
 
+<img src="https://github.com/devadvent/puzzle-1/raw/main/README.cover.jpg" alt="drawing" width="600"/>
+
 Weeks before Christmas, Santa's reindeers start practicing their flying in order to be fit for the big night. Unfortunately, one of them (Rudolf) crashed and landed in the forest 🌲
 
 Now, Santa 🎅 needs YOUR help to find him.
@@ -59,17 +61,32 @@ Now, Santa 🎅 needs YOUR help to find him.
 
 ## Day 2
 
+<img src="https://github.com/devadvent/puzzle-2/raw/main/README.cover.jpg" alt="drawing" width="600"/>
 The Elf Coffee Shop ElfCup with straw needs your help to create the menu for the newly reopened place where the elves get their daily cup of _whatever drink tickles their fancy_.
 
 [https://github.com/devadvent/puzzle-2](https://github.com/devadvent/puzzle-2)
 
+📊 76 submissions / 53 valid solutions
+
+🏆 Winner: [@hrexandro](https://twitter.com/hrexandro)
+
 ## Day 3
 
+<img src="https://github.com/devadvent/puzzle-3/raw/main/README.cover.jpg" alt="drawing" width="600"/>
 Due to the high demand ata the Elf Coffeee Shop ElfCup, the savy entrepreneur hired someone to make an app where elves can order their drink, and it would be delivered home, or to their workplace.
 
 [https://github.com/devadvent/puzzle-3](https://github.com/devadvent/puzzle-3)
 
+📊 53 submissions / 40 valid solutions
+
+🏆 Winner: [@\_JohnBooks](https://twitter.com/_JohnBooks)
+
 ## Day 4
+
+<img src="https://github.com/devadvent/puzzle-4/raw/main/README.cover.jpg" alt="drawing" width="600"/>
+📊 42 submissions / 33 valid solutions
+
+🏆 Winner: [@chamoyadafr](https://twitter.com/chamoyadafr)
 
 You might not know this, but the Elf Post Service 📯 (ECS) is the largest parcel organization in the world. (For obvious reasons though, now that you think about, right?). They are ecologically responsible, so they continuously try to make everything more efficient, they need your help fitting each present in the smallest possible box.
 
@@ -77,6 +94,22 @@ You might not know this, but the Elf Post Service 📯 (ECS) is the largest parc
 
 ## Day 5
 
+<img src="https://github.com/devadvent/puzzle-5/raw/main/README.cover.jpg" alt="drawing" width="600"/>
+📊 52 submissions / 45 valid solutions
+
+🏆 Winner: [@\_\_\_\_baran](https://twitter.com/____baran)
+
 The elves are about to prepare bags of candy that they want to add to each present this year, it's your job to create a program that creates bags of candy with no repeating candy in each bag.
 
 [https://github.com/devadvent/puzzle-5](https://github.com/devadvent/puzzle-5)
+
+## Day 6
+
+<img src="https://github.com/devadvent/puzzle-6/raw/main/README.cover.jpg" alt="drawing" width="600"/>
+You might have heard from the song Santa Claus is Coming to Town the lines:
+
+He's making a list. He's checking it twice. He's gonna find out who's naughty or nice
+
+Well, that is exactly what the task is: Write a program that checks a list of kids and analyze whether they were naughty or nice, so that Santa knows if they deserve candy and toys, or coal...
+
+[https://github.com/devadvent/puzzle-6](https://github.com/devadvent/puzzle-6)
