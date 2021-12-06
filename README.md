@@ -62,3 +62,21 @@ Now, Santa 🎅 needs YOUR help to find him.
 The Elf Coffee Shop ElfCup with straw needs your help to create the menu for the newly reopened place where the elves get their daily cup of _whatever drink tickles their fancy_.
 
 [https://github.com/devadvent/puzzle-2](https://github.com/devadvent/puzzle-2)
+
+## Day 3
+
+Due to the high demand ata the Elf Coffeee Shop ElfCup, the savy entrepreneur hired someone to make an app where elves can order their drink, and it would be delivered home, or to their workplace.
+
+[https://github.com/devadvent/puzzle-3](https://github.com/devadvent/puzzle-3)
+
+## Day 4
+
+You might not know this, but the Elf Post Service 📯 (ECS) is the largest parcel organization in the world. (For obvious reasons though, now that you think about, right?). They are ecologically responsible, so they continuously try to make everything more efficient, they need your help fitting each present in the smallest possible box.
+
+[https://github.com/devadvent/puzzle-4](https://github.com/devadvent/puzzle-4)
+
+## Day 5
+
+The elves are about to prepare bags of candy that they want to add to each present this year, it's your job to create a program that creates bags of candy with no repeating candy in each bag.
+
+[https://github.com/devadvent/puzzle-5](https://github.com/devadvent/puzzle-5)
